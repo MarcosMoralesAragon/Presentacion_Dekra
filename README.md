@@ -1,5 +1,7 @@
 # Presentacion_Dekra
 
+<img height="30px" src="dekra.svg">
+
 Presentacion realizada por :
  - [Marcos Morales Aragon](https://github.com/MarcosMoralesAragon)
  - [Sergio García Gomez](https://github.com/SergioGarciaGomez)
